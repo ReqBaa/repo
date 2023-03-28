@@ -1,0 +1,72 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: ReqBaa Repo
+Label: reqbaarepo
+Codename: bionic
+Date: Tue, 28 Mar 2023 22:43:48 UTC
+Architectures: i386 amd64 arm64 arm7
+Components: main
+Description: Personal repository
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ a073120d78031f15159616a90fa0bd34 106 main/binary-i386/Release
+ 952b907dec8028a4af2c2c5325ffbd5f 509 main/binary-amd64/Packages
+ 252a9036caf0c8d0b59f130d3e27fb1a 367 main/binary-amd64/Packages.gz
+ 19e39787aac4be37ec17d84fd4a04545 107 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 8cb487d95fbb1a17862038d9f0b6c7ff 107 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm7/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm7/Packages.gz
+ 86980a51c3f9bf0636fa4384c463e378 106 main/binary-arm7/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 41511efb816d0b7dc558407aff605ae3 108 main/source/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ bfe6762b44dd0b32ce398d99d380674aae8d0a65 106 main/binary-i386/Release
+ 2b0e2b81ce0d3d00321fa457e5d131e3a2f60028 509 main/binary-amd64/Packages
+ 44c5a6e93bd3f873b9fbefae9bfd3d5fabdad251 367 main/binary-amd64/Packages.gz
+ 4e4fac0afe6f70dd4b24cb2a45e1c9d8e4132fbd 107 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ e3775f5088c99f8ca3573323358e52ad9bdfcaa4 107 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm7/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm7/Packages.gz
+ 81202045610ae6944a03c0d4027fe60d6b4347b6 106 main/binary-arm7/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ dd3f2162bd3306aea0333384975fda1d76d98fac 108 main/source/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 10dfecbd5d4d0a2496d52e2b1c16b71826516b0d011a82f8c4e7f7270f817d94 106 main/binary-i386/Release
+ 1274b6038dc563224d0104cabd09e0050314870fb8e872fa14dff2a8a3efd5cb 509 main/binary-amd64/Packages
+ cc74a6feae0bd5d7fd643f1562adf5f765a11b34dc4c45a4d0890209822ee3a0 367 main/binary-amd64/Packages.gz
+ e453c238b2097805bf1cc501eb26728f305259383489e25ef639de18839f4e7d 107 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 46a8994f53ac8dc5b1ea622285c32fe31f69883cc50aa0ceb2760e6ae1c612e4 107 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm7/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm7/Packages.gz
+ 67456f5de1d74e817726f82bad044a27240fab838ebd692ce98dbf1ff66bcb00 106 main/binary-arm7/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 1ca71bdaa5c9eb12c049b444ed089f80c57bf9b1f3bf762e0289719255816843 108 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEGZ2mgYmi1x7+baOwgm998qioQCoFAmQjbacACgkQgm998qio
+QCpS1gv/SS/g0GEK5R4KVf0L+OcmhCaA8WQficrtdi02nnf0zVfiHz42WifH/vRx
+Cd1CgtcesJYSduTyAqYbSlAQ8jXplT3GwDI/1Ce71hLCYMk9lXHNj0CC0ZXyqy8l
+EvfmbU8m/Gv+F9c4DihAZHh9xOXOdKvOu5SxW7GiAtWaHfA48HpHvvRS9hX+Z6zr
+EF1ld8SpwKRO3H2HCUxagGJNcArwZWEIce7pQPN4KLywBkbWRANl5yQMc37J4is2
+QyuNzOKjIcgnyevSKtm+2Hk1OgbE23m3nRB6tGrOrpoOcD1oY0sehJQIDCmcfEnM
+2cUTLQlBc/uC1dmHjJG6CGaW3Me3vC+poW2sD0ywLFvl9+4na7buM9YI6mnQApZO
+i8tv09hnYKyIGYT6UllLMQAlKKaarpDU5kLBMVW1Z3rmA4HMHQ4iETezsNG5HfgP
+tFew5O3sghvGAcwQhjrp4VNwuqTJ+3bchkGZv33IR+D/qJU8VfQX8Qe4S2tPw9k5
+6XWfi/rY
+=zcL7
+-----END PGP SIGNATURE-----

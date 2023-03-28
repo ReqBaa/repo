@@ -1,0 +1,5 @@
+Component: main
+Origin: ReqBaa Repo
+Label: reqbaarepo
+Architecture: amd64
+Description: Personal repository
