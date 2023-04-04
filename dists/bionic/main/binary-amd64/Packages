@@ -1,16 +1,16 @@
 Package: reqnotes
-Version: 1.1-0ubuntu1
+Version: 1.5-0ubuntu1
 Architecture: amd64
 Maintainer: unknown <unknown@unknown>
-Installed-Size: 88590
+Installed-Size: 88564
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: misc
-Filename: pool/main/r/reqnotes/reqnotes_1.1-0ubuntu1_amd64.deb
-Size: 32453128
-SHA256: a8f2d5fed9d6c62f6f3bfbd31a1fa02375c8066367548aa2ab8af99a82451984
-SHA1: 46e15f140ba47cf8395ab6a3fc89312f57a929e8
-MD5sum: 2ab17b0265ef48ea185871a8d975f6c5
+Filename: pool/main/r/reqnotes/reqnotes_1.5-0ubuntu1_amd64.deb
+Size: 32410420
+SHA256: f135ee16551032b870a1a9c69cf319ef4154d060fa7d99274f8695958e373447
+SHA1: 5847f8c26ad47f9ce1223daf7e76fbc6827273e9
+MD5sum: b4f45559b256f651fd4574c8900a3291
 Description: Personal Note Application
  Personal Note Application.
 
