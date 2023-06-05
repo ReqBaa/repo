@@ -4,4 +4,5 @@ Codename: bionic
 Architectures: i386 amd64 arm64 arm7 source
 Components: main
 Description: Personal repository
-SignWith: 826F7DF2A8A8402A
+SignWith: 445ED683FF0B2255
+
